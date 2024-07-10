@@ -19,4 +19,5 @@
       npx cypress open
 
 ### Extra configuration
-      Rename the file cypress.example.env.json to cypress.env.json and add valid credentials to execute the tests
+- Rename the file cypress.example.env.json to cypress.env.json
+- Add valid credentials to execute the tests
